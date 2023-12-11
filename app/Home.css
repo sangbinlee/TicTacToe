@@ -1,0 +1,65 @@
+input {
+  border: unset;
+  background: #6e6e6e;
+  padding: 5px 40px;
+  color: white;
+
+}
+
+button {
+  border: unset;
+  background: gray;
+  color: white;
+  padding: 5px 15px;
+  cursor: pointer;
+}
+
+textarea {
+  border: unset;
+  background: #e3e3e3;
+  padding: 5px 40px;
+  color: black;
+  width: 200px;
+  height: 50px;
+
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  width: 100%;
+  max-width: 90%;
+  margin: auto;
+  text-align: center;
+}
+.geeks {
+  text-align: center;
+  color: green;
+  font-size: 40px;
+}
+
+textarea {
+  height: 50px;
+  width: 80%;
+  padding: 0;
+  font-size: 25px;
+  border-radius: 5px;
+  margin: auto;
+  margin-top: 2%;
+}
+button {
+  margin: 2%;
+  padding: 10px;
+  font-size: 20px;
+  position: relative;
+  /* // left: 30%; */
+  margin-top: 50px;
+  cursor: pointer;
+  color: white;
+  background-color: green;
+  border-radius: 10px;
+}
