@@ -34,3 +34,80 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+
+
+
+# https://highlightjs.readthedocs.io/en/latest/readme.html
+
+    npm install highlight.js
+    # or
+    yarn add highlight.js
+
+
+
+# npm install react-highlight --save    
+
+
+
+# https://github.com/react-syntax-highlighter/react-syntax-highlighter
+# https://react-syntax-highlighter.github.io/react-syntax-highlighter/demo/prism-async-light.html
+
+# npm install react-syntax-highlighter --save
+
+    # using npm
+    npm i react-syntax-highlighter
+
+    # using yarn
+    yarn add react-syntax-highlighter
+
+
+
+#  npm i react-icons    
+# npm i react-scroll-to-top
+    https://stackabuse.com/how-to-scroll-to-top-in-react-with-a-button-component/
+
+
+# npm install react-player    
+
+
+# npm install react-toastify copy-to-clipboard
+
+
+# npm i --save styled-components react-copy-to-clipboard
+
+
+# npm install react-router-dom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"# TicTacToe" 
