@@ -91,12 +91,15 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 
+#  local git set
 
-
-
-
-
-
+    echo "# TicTacToe" >> README.md
+    git init
+    git add README.md
+    git commit -m "first commit"
+    git branch -M main
+    git remote add origin https://github.com/sangbinlee/TicTacToe.git
+    git push -u origin main
 
 
 
